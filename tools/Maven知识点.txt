@@ -1,4 +1,0 @@
-1、maven仓库：	https://mvnrepository.com/
-
-2、二维码使用的jar包：com.google.zxing
-	
